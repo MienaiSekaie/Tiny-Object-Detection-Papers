@@ -6,24 +6,24 @@ Github不识别链接中的空格，链接在本地有效
 
 ## 1 Traditional methods
 
-[Adaboost+Haar矩形特征+级联检测器 2001](./ML/Rapid Object Detection using a Boosted Cascade of Simple Features 2001.pdf)
+[Adaboost+Haar矩形特征+级联检测器 2001](./ml/Rapid Object Detection using a Boosted Cascade of Simple Features 2001.pdf)
 
 基于此方法改进：
 
-+ [旋转不变Haar特征](./ML/An Extended Set of Haar-like Features for Rapid Object Detection.pdf)
++ [旋转不变Haar特征](./ml/An Extended Set of Haar-like Features for Rapid Object Detection.pdf)
 
-+ [稀疏特征](./ML/Learning Sparse Features in Granular Space for Multi-View Face Detection.pdf)
++ [稀疏特征](./ml/Learning Sparse Features in Granular Space for Multi-View Face Detection.pdf)
 
-+ [基于LBP的空间直方图特征](./ML/Object detection using spatial histogram features.pdf)
-+ [在后级分类器训练中利用前级分类器预测值](./ML/Boosting Chain Learning for Object Detection.pdf)
++ [基于LBP的空间直方图特征](./ml/Object detection using spatial histogram features.pdf)
++ [在后级分类器训练中利用前级分类器预测值](./ml/Boosting Chain Learning for Object Detection.pdf)
 
-[梯度方向直方图HOG](./ML/Histograms of oriented gradients for human detection 2005.pdf)
+[梯度方向直方图HOG](./ml/Histograms of oriented gradients for human detection 2005.pdf)
 
-[可变性部件模型DPM](./ML/Object Detection with Discriminatively Trained Part-Based Models.pdf)
+[可变性部件模型DPM](./ml/Object Detection with Discriminatively Trained Part-Based Models.pdf)
 
-[Small Object Detection and Tracking Algorithm Analysis and Application2005](./ML/Small Object Detection and Tracking Algorithm Analysis and Application2005.pdf)
+[Small Object Detection and Tracking Algorithm Analysis and Application2005](./ml/Small Object Detection and Tracking Algorithm Analysis and Application2005.pdf)
 
-[Small object detection in cluttered image using a correlation based active contour model2012](./ML/Small object detection in cluttered image using a correlation based active contour model2012.pdf)
+[Small object detection in cluttered image using a correlation based active contour model2012](./ml/Small object detection in cluttered image using a correlation based active contour model2012.pdf)
 
 
 
