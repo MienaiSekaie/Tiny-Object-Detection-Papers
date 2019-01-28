@@ -2,6 +2,8 @@
 
 This is a tiny object detection papers collection.
 
+Github不识别链接中的空格，链接在本地有效
+
 ## 1 Traditional methods
 
 [Adaboost+Haar矩形特征+级联检测器 2001](./ML/Rapid Object Detection using a Boosted Cascade of Simple Features 2001.pdf)
